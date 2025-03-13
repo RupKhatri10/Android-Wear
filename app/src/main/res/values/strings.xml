@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Group2_Midterm</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="enter_workout_type">Enter Workout Type</string>
+    <string name="invalid_workout_type">Invalid workout type!</string>
+    <string name="timer_default">00:00:00</string>
+    <string name="calories_format">%.2f cal</string>
+    <string name="workout_list_title">Workout Sessions</string>
+</resources>
